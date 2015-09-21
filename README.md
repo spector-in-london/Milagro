@@ -10,5 +10,3 @@ As a result, DevOps teams inside cloud service providers encounter challenges sc
 Cloud and software as a service providers encounter friction bringing the largest customers in regulated industries onto their platforms because issues of cryptograph trust, data residence and governance can't be adequately addressed.
 
 Enterprises in regulated industries find challenges to fully transform themselves into digital businesses because the economics of cloud computing are unavailable to them.
-
-## Why Milagro
